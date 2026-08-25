@@ -1,4 +1,4 @@
-# KimChanbin
+# 김찬빈
 ## 🎮 Main Tech Stack
 
 <div align="left">

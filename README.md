@@ -49,4 +49,3 @@ DirectX11 · Unity · C++ · Graphics · Optimization
 
 ## 📫 Contact
 - **Email** : gimchanbin1013@gmail.com
-- **Portfolio** : [포트폴리오_김찬빈.pdf](https://github.com/user-attachments/files/31404326/_.pdf)

@@ -1,45 +1,50 @@
-# 김찬빈
-## 🎮 Main Tech Stack
+<div align="center">
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="Unity"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+# 김찬빈 | Game Client Programmer
+
+DirectX11 · Unity · C++ · Graphics · Optimization
+
+꾸준히 최적화와 게임 시스템을 구현하는 게임 클라이언트 프로그래머입니다.
+
 </div>
 
-<br/>
+---
 
-## 🛠 Engine & Graphics
+## 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="Visual Studio"/>
-  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="Windows"/>
-  <img src="https://skillicons.dev/icons?i=cmake" height="50" alt="CMake"/>
-</div>
+### Languages & Engine
 
-- **DirectX11**
-- HLSL Shader (Vertex / Pixel / Geometry)
-- Compute Shader
-- ImGui
-- Assimp
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,unity,unreal,visualstudio" />
+</p>
 
-<br/>
+### Graphics & Game Development
 
-## 🚀 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,cmake,git,github,mysql,firebase" />
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx"/>
-</div>
+**DirectX11 · HLSL · Compute Shader · ImGui · Assimp · Addressables · FMOD**
 
-<br/>
+---
 
-## 📚 Experienced With
+## 💡 What I Focus On
+- 🚀 **Rendering & Optimization** — Frustum Culling, GPU Instancing, Compute Shader 기반 렌더링 최적화
+- 🎮 **Game AI** — FSM / Behavior Tree 기반 몬스터 AI 및 보스 패턴 구현
+- ⚔️ **Combat & Gameplay** — MMORPG 전투 시스템 및 액션 게임플레이 로직 구현
+- ♻️ **Performance** — Object Pool, Thread Pool을 활용한 메모리 및 런타임 최적화
+- 🌐 **Network Programming** — ProudNet, TCP/UDP 기반 실시간 네트워크 시스템 구현
 
-`Addressables` · `DOTween` · `Behavior Tree` · `FSM` · `Object Pooling` · `FMOD`
+
+## 🧠 Algorithm
+- DFS / BFS
+- Dijkstra & A*
+- Dynamic Programming
+- Binary Search
+- Priority Queue
+- STL
+
+---
+
+## 📫 Contact
+- **Email** : gimchanbin1013@gmail.com

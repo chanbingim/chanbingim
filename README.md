@@ -49,3 +49,4 @@ DirectX11 · Unity · C++ · Graphics · Optimization
 
 ## 📫 Contact
 - **Email** : gimchanbin1013@gmail.com
+- **Notion** : https://app.notion.com/p/0bc7540c8a88839e9c3a81b17dd6265a?source=copy_link
